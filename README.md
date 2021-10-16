@@ -26,18 +26,18 @@ Remember to proceed in small steps! Getting confused? Make the steps even smalle
 ##Setting up my tables:
 
 User table:
-|--|---------|--------------|--------|
-|id|user_name| email |password|
+
+|id|user_name|   email      |password|
 |--|---------|--------------|--------|
 | 1|test_new |test@gmail.com| secret |
-|--|---------|--------------|--------|
+
 
 Post table:
-|---|----------|----|----------|
+
 |id |user_name |post|timestamp |
 |---|----------|----|----------|
-| 1 | test_new | 1 |2021-10-16|
-|---|----------|----|----------|
+| 1 | test_new | 1  |2021-10-16|
+
 
 ## Code Quality
 
